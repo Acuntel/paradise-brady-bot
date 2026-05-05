@@ -1,0 +1,7 @@
+first_name,last_name,email,town,home_value_tier,year_built,recently_sold,source_type,source_url
+Sarah,Whitman,sarah.whitman.test@example.com,Highland Park,high,2008,1,test,manual
+Marcus,Lindgren,marcus.lindgren.test@example.com,Winnetka,ultra,1992,0,test,manual
+David,Park,david.park.test@example.com,Vernon Hills,mid,2003,0,test,manual
+Jennifer,Maddox,jennifer.maddox.test@example.com,Lake Forest,ultra,1988,0,test,manual
+Tom,Reilly,tom.reilly.test@example.com,Buffalo Grove,mid,1979,0,test,manual
+Linda,Costa,linda.costa.test@example.com,Glencoe,high,1996,1,test,manual
